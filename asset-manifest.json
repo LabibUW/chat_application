@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LabibUW/chat_application/static/css/main.9d743f85.css",
-    "main.js": "/LabibUW/chat_application/static/js/main.86abb445.js",
-    "index.html": "/LabibUW/chat_application/index.html",
-    "main.9d743f85.css.map": "/LabibUW/chat_application/static/css/main.9d743f85.css.map",
-    "main.86abb445.js.map": "/LabibUW/chat_application/static/js/main.86abb445.js.map"
+    "main.css": "/chat_application/static/css/main.9d743f85.css",
+    "main.js": "/chat_application/static/js/main.86abb445.js",
+    "index.html": "/chat_application/index.html",
+    "main.9d743f85.css.map": "/chat_application/static/css/main.9d743f85.css.map",
+    "main.86abb445.js.map": "/chat_application/static/js/main.86abb445.js.map"
   },
   "entrypoints": [
     "static/css/main.9d743f85.css",
